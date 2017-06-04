@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "~~~ Your Value Here ~~~",
+    "AzureWebJobsDashboard": "~~~ Your Value Here ~~~",
+    "insights-operational-logs_EVENTHUB": "~~~ Your Value Here ~~~",
+    "SubscriptionId": "~~~ Your Value Here ~~~",
+    "ClientId": "~~~ Your Value Here ~~~",
+    "ClientSecret": "~~~ Your Value Here ~~~",
+    "TenantId": "~~~ Your Value Here ~~~"
+
+  }
+}
