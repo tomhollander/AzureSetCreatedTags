@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/SetCreatedTags/bin/Debug/net461
+/SetCreatedTags/obj
+/SetCreatedTags/Properties/PublishProfiles
+/SetCreatedTags/SetCreatedTags.csproj.user
+/SetCreatedTags/local.settings-keys.json
+/SetCreatedTags/local.settings-blank.json
